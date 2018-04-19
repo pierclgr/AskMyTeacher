@@ -117,3 +117,9 @@ This program is licensed under GNU General Public License v3, see [LICENSE](LICE
 * Always friendly neighborhood Google
 * [W3C School](https://www.w3schools.com/) for languages tutorials
 
+## Screenshots
+![all_questions_page_teacher_mode](Screenshots/all_questions_page_teacher_mode.png)
+![all_questions_page_user_mode](Screenshots/all_questions_page_user_mode.png)
+![current_user_question_page_user_mode](Screenshots/current_user_question_page_user_mode.png)
+![login_page](Screenshots/login_page.png)
+![register_page](Screenshots/register_page.png)
