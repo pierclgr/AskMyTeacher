@@ -83,14 +83,6 @@ To display this system on a live system, you need a web host that **supports php
 * [Wix](https://www.wix.com)
 * [Altervista](https://www.altervista.org/)
 
-## Screenshots
-
-- [login_page.png](Screenshots/login_page.png) - Login Page
-- [register_page.png](Screenshots/register_page.png) - Student register page
-- [all_questions_page_teacher_mode.png](Screenshots/all_questions_page_teacher_mode.png) - Page with all students' questions for the teacher
-- [all_questions_page_user_mode.png](Screenshots/all_questions_page_user_mode.png) - Page with all students' questions for the student
-- [current_user_question_page_user_mode.png](Screenshots/current_user_question_page_user_mode.png) - Page with the current student questions
-
 ## Built With
 
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - The IDE used
@@ -118,6 +110,7 @@ This program is licensed under GNU General Public License v3, see [LICENSE](LICE
 * [W3C School](https://www.w3schools.com/) for languages tutorials
 
 ## Screenshots
+
 ![all_questions_page_teacher_mode](Screenshots/all_questions_page_teacher_mode.png)
 ![all_questions_page_user_mode](Screenshots/all_questions_page_user_mode.png)
 ![current_user_question_page_user_mode](Screenshots/current_user_question_page_user_mode.png)
