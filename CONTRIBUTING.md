@@ -11,7 +11,7 @@ If you want to contribute to this project, you have to follow the following step
 - Create a new branch to work on; branch from `master`
 - Make your changes (implementing, fixes etc.); also, adding comments to code is appreciated
   - You're not forced to follow my coding style; however, please make the code easily readable following the basic indentation and writing style
-- Write or adapt tests, following [README.md](README.md) tests guide
+- Write or adapt tests (i'm not giving guidelines, just simply test you improvements and upload your tests)
 - Add or change the documentation
 - Squash your commits into a single commit with git's interactive rebase
 - Push your branch to your fork on Github, the remote `origin`
