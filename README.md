@@ -68,7 +68,7 @@ Two teachers are automatically added to the system for testing purposes, you can
 insert into Utenti values (null,true,"FIRST_NAME","LAST_NAME","USERNAME","ENCRYPTED_PASSWORD",null);
 ```
 
-To encrypt passwords, we use php password_hash function. To create your encrypted password with this function, use [this website](http://www.passwordtool.hu/php5-password-hash-generator) . **You have to had the password encrypted with this method or you won't be able to log in as the teacher you added.**
+To encrypt passwords, we use php password_hash function. To create your encrypted password with this function, use [this website](http://www.passwordtool.hu/php5-password-hash-generator) . **You must have passwords encrypted with this method or you won't be able to log in as the teacher you added.**
 
 ## Deployment
 
